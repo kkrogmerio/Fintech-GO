@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "519187374430",
+    "firebase_url": "https://first-rn-app-4c8c9-default-rtdb.firebaseio.com",
+    "project_id": "first-rn-app-4c8c9",
+    "storage_bucket": "first-rn-app-4c8c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519187374430:android:a77ce7f351d1e0dc9eafcf",
+        "android_client_info": {
+          "package_name": "com.licenta.avramsdasdae213212112f12f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519187374430-67ihvprb38uk1vs4jcfe7qv8l7badf80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.licenta.avramsdasdae213212112f12f",
+            "certificate_hash": "3af008d7818c89cd6549286ed67e1dc937f5c14f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDyRvJa4zncRbMWQaPtYHkVik6uIHKCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519187374430-nkcledg3iefvhktoghm6mg10adt9a3op.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.licenta.avramsdasdae213212112f12f"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519187374430:android:62e02ed39b1041bd9eafcf",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDyRvJa4zncRbMWQaPtYHkVik6uIHKCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519187374430-nkcledg3iefvhktoghm6mg10adt9a3op.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.licenta.avramsdasdae213212112f12f"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

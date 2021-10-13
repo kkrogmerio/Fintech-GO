@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Fintech App",
+    "icon": "./assets/icon.png",
+    "splash":{
+      "image": "./assets/splash.png",
+      "resizeMode":"contain"
+    },
+    "description":"Aplicatia reprezinta o lucrare de licenta la Facultatea de matematica si informatica din cadrul Universitatii din Bucuresti",
+    "version": "1.0.1",
+    "slug": "fintech-app",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.licenta.avramsdasdae213212112f12f",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "config":{
+        "googleSignIn":{
+          "apiKey":"AIzaSyDKDyRvJa4zncRbMWQaPtYHkVik6uIHKCc",
+          "certificateHash":"3D:F0:08:D7:81:8C:89:CD:65:49:28:6E:D6:7E:1D:C9:37:F5:C1:4F"
+        }
+      },
+      "package": "com.licenta.avramsdasdae213212112f12f",
+      "versionCode": 3,
+      "adaptiveIcon":{
+        "foregroundImage":"./assets/adaptive-icon.png",
+        "backgroundColor":"1B75C9"
+      }
+    }
+   
+   }
+}
+
+
